@@ -62,9 +62,22 @@ These visualizations clearly illustrate how country rankings changed significant
 
 ### Countries with Significant Happiness Changes (2015-2019):
 
-![Significant Happiness Changes](4.png)
+![Significant Happiness Changes](Pic/4.png)
 
 This visualization identifies countries that experienced notable increases or decreases in happiness scores from 2015 to 2019, highlighting significant shifts in overall national well-being.
+
+## Which countries had the most stable happiness scores between 2015 and 2019?
+To identify countries with stable happiness scores, standard deviation analysis and variability indices were calculated for each country's happiness scores over the 2015-2019 period. Countries exhibiting minimal fluctuations included:
+- Switzerland
+- Netherlands
+- Finland
+- Canada
+- New Zealand
+
+![Significant Happiness Changes](Pic/5.png)
+
+These countries maintained consistent rankings and demonstrated minor variations, indicating stability in factors contributing to their happiness.
+
 
 ## Data Quality Checks
 
