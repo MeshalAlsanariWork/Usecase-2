@@ -1,7 +1,5 @@
 # Happiness Analysis Project
 
-### Author: Meshal Alsanari
-
 ## Overview
 This project involves Exploratory Data Analysis (EDA) of the "World Happiness Report" datasets spanning from 2015 to 2019. The datasets quantify various aspects influencing the happiness score of different countries globally.
 
@@ -104,3 +102,4 @@ These countries maintained consistent rankings and demonstrated minor variations
 ## Conclusion
 By systematically addressing data issues and employing comprehensive EDA techniques, this project enhances the understanding of global happiness metrics, ensuring accuracy, consistency, and meaningful insights.
 
+### Name: Meshal Alsanari
